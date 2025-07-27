@@ -22,6 +22,6 @@ Project path : https://yashkapoor279.github.io/Mastercard/
 
 - HTML5
 - CSS3 (with animations and gradients)
-- Google Fonts (optional)
+- Google Fonts
 
 ---
